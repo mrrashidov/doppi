@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.app.json",
+  "exclude": [],
+  "compilerOptions": {
+    "lib": ["ES2022", "dom"],
+    "composite": true,
+    "types": ["node", "jsdom"]
+  }
+}
