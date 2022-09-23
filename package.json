@@ -1,6 +1,6 @@
 {
-  "name": "doppi",
-  "version": "0.0.1",
+  "name": "@doppi/vue",
+  "version": "0.0.1-beta.1",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
